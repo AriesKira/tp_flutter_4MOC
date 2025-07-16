@@ -6,3 +6,4 @@ pour avoir la bonne date de updated at
 Aussi jsp pk mais crashlytics a casser toute l'app ios donc j'ai fait des trucs bizaare pour que sa remarche
 Au cas ou jamais tester le projet sur android
 Et j'ai pas fait crashlytics sur android parce que flemme en plus leur doc est pourri
+Ah et j'avais de base mis le login avec google mais enlever parce qu'il crashait et je sais plus comment fix

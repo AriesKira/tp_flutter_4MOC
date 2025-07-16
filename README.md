@@ -7,3 +7,6 @@ Aussi jsp pk mais crashlytics a casser toute l'app ios donc j'ai fait des trucs 
 Au cas ou jamais tester le projet sur android
 Et j'ai pas fait crashlytics sur android parce que flemme en plus leur doc est pourri
 Ah et j'avais de base mis le login avec google mais enlever parce qu'il crashait et je sais plus comment fix
+
+Aussi svp la prochaine fois donner le tp bcp plus tot même si faut enlever des trucs parce que le donner 
+a 1 semaines des partiels avec tout les autres projets c vraiment horrible
